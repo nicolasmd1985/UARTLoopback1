@@ -1,10 +1,10 @@
 #Internal package file, do not edit.
-#Wed Mar 08 14:14:13 ART 2017
+#Thu Mar 09 10:26:24 ART 2017
 2.base=D\:\\Nicolas\\Repositorio\\UARTLoopback1\\app\\build\\intermediates\\res\\resources-debug.ap_
 5.file=D\:\\Nicolas\\Repositorio\\UARTLoopback1\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
 5.set=ANDROID_RESOURCE
 3.base=D\:\\Nicolas\\Repositorio\\UARTLoopback1\\app\\build\\intermediates\\res\\resources-debug.ap_
-6.file=D\:\\Nicolas\\Repositorio\\UARTLoopback1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\my_spinner_textview.xml
+6.file=D\:\\Nicolas\\Repositorio\\UARTLoopback1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\xml\\accessory_filter.xml
 2.set=ANDROID_RESOURCE
 4.base=D\:\\Nicolas\\Repositorio\\UARTLoopback1\\app\\build\\intermediates\\res\\resources-debug.ap_
 count=7
@@ -20,5 +20,5 @@ count=7
 3.file=D\:\\Nicolas\\Repositorio\\UARTLoopback1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
 3.set=ANDROID_RESOURCE
 1.base=D\:\\Nicolas\\Repositorio\\UARTLoopback1\\app\\build\\intermediates\\res\\resources-debug.ap_
-4.file=D\:\\Nicolas\\Repositorio\\UARTLoopback1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\xml\\accessory_filter.xml
+4.file=D\:\\Nicolas\\Repositorio\\UARTLoopback1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\my_spinner_textview.xml
 0.set=ANDROID_RESOURCE

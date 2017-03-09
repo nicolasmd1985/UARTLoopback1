@@ -350,7 +350,7 @@ public class FT311UARTInterface extends Activity
 			intsharePrefSettings.edit().putString("configed", "TRUE").commit();
 			intsharePrefSettings.edit().putInt("baudRate", 9600).commit();
 			intsharePrefSettings.edit().putInt("stopBit", 1).commit();
-			intsharePrefSettings.edit().putInt("dataBit", 8).commit();
+			intsharePrefSettings.edit().putInt("dataBit", 7).commit();
 			intsharePrefSettings.edit().putInt("parity", 0).commit();			
 			intsharePrefSettings.edit().putInt("flowControl", 0).commit();
 		}

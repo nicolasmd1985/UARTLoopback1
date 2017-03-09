@@ -22,22 +22,17 @@ public final class R {
         public static final int icon=0x7f020001;
     }
     public static final class id {
-        public static final int ReadBytes=0x7f07000b;
-        public static final int ReadValues=0x7f07000c;
-        public static final int WriteButton=0x7f07000f;
-        public static final int WriteBytes=0x7f07000d;
-        public static final int WriteValues=0x7f07000e;
+        public static final int ReadBytes=0x7f070006;
+        public static final int ReadValues=0x7f070007;
+        public static final int WriteButton=0x7f07000a;
+        public static final int WriteBytes=0x7f070008;
+        public static final int WriteValues=0x7f070009;
         public static final int baudRate=0x7f070000;
-        public static final int baudRateValue=0x7f070001;
-        public static final int configButton=0x7f07000a;
-        public static final int dataBit=0x7f070004;
-        public static final int dataBitValue=0x7f070005;
-        public static final int flowControl=0x7f070008;
-        public static final int flowControlValue=0x7f070009;
-        public static final int parity=0x7f070006;
-        public static final int parityValue=0x7f070007;
-        public static final int stopBit=0x7f070002;
-        public static final int stopBitValue=0x7f070003;
+        public static final int configButton=0x7f070005;
+        public static final int dataBit=0x7f070002;
+        public static final int flowControl=0x7f070004;
+        public static final int parity=0x7f070003;
+        public static final int stopBit=0x7f070001;
     }
     public static final class layout {
         public static final int main=0x7f030000;

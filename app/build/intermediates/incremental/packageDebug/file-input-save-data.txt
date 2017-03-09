@@ -1,13 +1,13 @@
 #Internal package file, do not edit.
-#Wed Mar 08 14:14:17 ART 2017
+#Thu Mar 09 10:26:27 ART 2017
 2.base=D\:\\Nicolas\\Repositorio\\UARTLoopback1\\app\\build\\intermediates\\res\\resources-debug.ap_
-5.file=D\:\\Nicolas\\Repositorio\\UARTLoopback1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\my_spinner_textview.xml
+5.file=D\:\\Nicolas\\Repositorio\\UARTLoopback1\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
 5.set=ANDROID_RESOURCE
 3.base=D\:\\Nicolas\\Repositorio\\UARTLoopback1\\app\\build\\intermediates\\res\\resources-debug.ap_
 6.file=D\:\\Nicolas\\Repositorio\\UARTLoopback1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\xml\\accessory_filter.xml
 2.set=ANDROID_RESOURCE
 4.base=D\:\\Nicolas\\Repositorio\\UARTLoopback1\\app\\build\\intermediates\\res\\resources-debug.ap_
-7.file=D\:\\Nicolas\\Repositorio\\UARTLoopback1\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+7.file=D\:\\Nicolas\\Repositorio\\UARTLoopback1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\my_spinner_textview.xml
 7.set=ANDROID_RESOURCE
 count=9
 0.file=D\:\\Nicolas\\Repositorio\\UARTLoopback1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\button_pattern.xml
