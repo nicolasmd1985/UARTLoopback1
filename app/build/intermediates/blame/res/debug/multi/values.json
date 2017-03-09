@@ -1,0 +1,169 @@
+[
+    {
+        "outputFile": "D:\\Nicolas\\Repositorio\\UARTLoopback1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 15,
+                    "endColumn": 16,
+                    "endOffset": 420
+                },
+                "from": {
+                    "file": "D:\\Nicolas\\Repositorio\\UARTLoopback1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 219,
+                        "endLine": 18,
+                        "endColumn": 16,
+                        "endOffset": 584
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 425,
+                    "endLine": 19,
+                    "endColumn": 16,
+                    "endOffset": 531
+                },
+                "from": {
+                    "file": "D:\\Nicolas\\Repositorio\\UARTLoopback1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 1,
+                        "startOffset": 699,
+                        "endLine": 28,
+                        "endColumn": 16,
+                        "endOffset": 805
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 536,
+                    "endLine": 23,
+                    "endColumn": 16,
+                    "endOffset": 646
+                },
+                "from": {
+                    "file": "D:\\Nicolas\\Repositorio\\UARTLoopback1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 1,
+                        "startOffset": 976,
+                        "endLine": 41,
+                        "endColumn": 16,
+                        "endOffset": 1086
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 651,
+                    "endLine": 30,
+                    "endColumn": 16,
+                    "endOffset": 812
+                },
+                "from": {
+                    "file": "D:\\Nicolas\\Repositorio\\UARTLoopback1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 1,
+                        "startOffset": 809,
+                        "endLine": 36,
+                        "endColumn": 16,
+                        "endOffset": 972
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 817,
+                    "endLine": 34,
+                    "endColumn": 16,
+                    "endOffset": 923
+                },
+                "from": {
+                    "file": "D:\\Nicolas\\Repositorio\\UARTLoopback1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 1,
+                        "startOffset": 588,
+                        "endLine": 23,
+                        "endColumn": 16,
+                        "endOffset": 694
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 928,
+                    "endColumn": 50,
+                    "endOffset": 974
+                },
+                "from": {
+                    "file": "D:\\Nicolas\\Repositorio\\UARTLoopback1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 120,
+                        "endColumn": 50,
+                        "endOffset": 166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 979,
+                    "endColumn": 46,
+                    "endOffset": 1021
+                },
+                "from": {
+                    "file": "D:\\Nicolas\\Repositorio\\UARTLoopback1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 171,
+                        "endColumn": 46,
+                        "endOffset": 213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1026,
+                    "endColumn": 64,
+                    "endOffset": 1086
+                },
+                "from": {
+                    "file": "D:\\Nicolas\\Repositorio\\UARTLoopback1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 64,
+                        "endOffset": 115
+                    }
+                }
+            }
+        ]
+    }
+]

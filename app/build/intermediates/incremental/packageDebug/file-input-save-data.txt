@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Wed Mar 08 14:14:17 ART 2017
+2.base=D\:\\Nicolas\\Repositorio\\UARTLoopback1\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\Nicolas\\Repositorio\\UARTLoopback1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\my_spinner_textview.xml
+5.set=ANDROID_RESOURCE
+3.base=D\:\\Nicolas\\Repositorio\\UARTLoopback1\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=D\:\\Nicolas\\Repositorio\\UARTLoopback1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\xml\\accessory_filter.xml
+2.set=ANDROID_RESOURCE
+4.base=D\:\\Nicolas\\Repositorio\\UARTLoopback1\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=D\:\\Nicolas\\Repositorio\\UARTLoopback1\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+7.set=ANDROID_RESOURCE
+count=9
+0.file=D\:\\Nicolas\\Repositorio\\UARTLoopback1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\button_pattern.xml
+5.base=D\:\\Nicolas\\Repositorio\\UARTLoopback1\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=D\:\\Nicolas\\Repositorio\\UARTLoopback1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_7000a2d9d7d6083e355097abf102c8ad1bd743cd\\classes.dex
+4.set=ANDROID_RESOURCE
+6.base=D\:\\Nicolas\\Repositorio\\UARTLoopback1\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=D\:\\Nicolas\\Repositorio\\UARTLoopback1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b758d6e7995060d25ee5f0c29bfb9969932b6b85\\classes.dex
+1.set=DEX
+7.base=D\:\\Nicolas\\Repositorio\\UARTLoopback1\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=D\:\\Nicolas\\Repositorio\\UARTLoopback1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
+6.set=ANDROID_RESOURCE
+0.base=D\:\\Nicolas\\Repositorio\\UARTLoopback1\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=D\:\\Nicolas\\Repositorio\\UARTLoopback1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_7000a2d9d7d6083e355097abf102c8ad1bd743cd
+3.file=D\:\\Nicolas\\Repositorio\\UARTLoopback1\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=D\:\\Nicolas\\Repositorio\\UARTLoopback1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b758d6e7995060d25ee5f0c29bfb9969932b6b85
+4.file=D\:\\Nicolas\\Repositorio\\UARTLoopback1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+8.set=DEX
+0.set=ANDROID_RESOURCE

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Nicolas\Repositorio\UARTLoopback1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="10619e55fcbb1e0d9c51365033b7fce2eb6c9e17">
+        <dex dex="D:\Nicolas\Repositorio\UARTLoopback1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b758d6e7995060d25ee5f0c29bfb9969932b6b85\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Nicolas\Repositorio\UARTLoopback1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="D:\Nicolas\Repositorio\UARTLoopback1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_7000a2d9d7d6083e355097abf102c8ad1bd743cd\classes.dex" />
+    </item>
+
+</items>
